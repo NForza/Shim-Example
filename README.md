@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/NForza/nforza-presentations-courses/master/nforza-logo.png" width="100px" style="margin: auto" />
+
 # Visual Studio Shim Example
 
 Example code of MSDN's article "Using shims to isolate your application from other assemblies for unit testing":
